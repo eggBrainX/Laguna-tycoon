@@ -1,0 +1,6 @@
+{
+  "name": "Laguna Fish",
+  "description": "Game simulasi toko ikan hias tropis semi-realistis: tetaskan telur, rawat dan kawinkan spesies langka, negosiasi langsung dengan pembeli, dan temukan 7 Ikan Ajaib Laguna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
